@@ -64,51 +64,92 @@ I enjoy turning manual deployment processes into reliable automated systems.
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
-## 🔹 InfraForge
+<table>
+<tr>
+<td width="50%">
 
-Production-style AWS infrastructure provisioning project built using Terraform, GitHub Actions, and modular Infrastructure as Code practices.
+## ☁️ InfraForge
 
-### Key Highlights
-- Modular Terraform architecture
-- Remote state management using S3 + DynamoDB
-- CI/CD automation using GitHub Actions
-- Separate development & production environments
-- Infrastructure validation & security checks
-- Scalable and reusable infrastructure setup
+Production-style AWS infrastructure provisioning using Terraform and GitHub Actions.
 
-🔗 Repository:
-https://github.com/VEER0402/InfraForge
+### Tech Used
+AWS • Terraform • GitHub Actions • S3 • DynamoDB
 
----
+### Highlights
+✔ Modular Terraform architecture  
+✔ Remote state management  
+✔ CI/CD automation  
+✔ Dev & Prod environments  
+✔ Infrastructure validation checks  
 
-## 🔹 Jenkins CI/CD Pipeline Project
+🔗 [View Repository](https://github.com/VEER0402/InfraForge)
 
-CI/CD pipeline project focused on automating build, test, and deployment workflows using Jenkins and Docker-based deployment strategies.
+</td>
 
-### Key Highlights
-- Automated Jenkins pipelines
-- Build & deployment automation
-- Git-based workflow integration
-- Environment-specific deployment handling
-- Deployment validation support
+<td width="50%">
 
-🔗 Repository:
-https://github.com/VEER0402/jenkins-ci-java-without-docker
+## ⚙️ Jenkins CI/CD Pipeline
 
----
+Automated CI/CD workflows using Jenkins pipeline automation.
 
-## 🔹 Shell Automation Scripts
+### Tech Used
+Jenkins • Docker • Git • Linux
 
-Collection of Linux and Bash automation scripts used for deployment support, system operations, and repetitive infrastructure tasks.
+### Highlights
+✔ Automated build workflows  
+✔ Deployment automation  
+✔ Git integration  
+✔ Release validation support  
+✔ Environment handling  
 
-### Key Highlights
-- Linux automation scripts
-- Deployment utility scripts
-- Process monitoring helpers
-- File and log management automation
-- Daily operational task automation
+🔗 [View Repository](https://github.com/VEER0402/jenkins-ci-java-without-docker)
 
-🔗 Repository:
-https://github.com/VEER0402/Shell-Scripts
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🐧 Shell Automation Scripts
+
+Linux and Bash automation scripts for operational and deployment tasks.
+
+### Tech Used
+Linux • Bash • Shell Scripting
+
+### Highlights
+✔ Log automation  
+✔ File management scripts  
+✔ Process monitoring  
+✔ Deployment helper scripts  
+✔ Operational automation  
+
+🔗 [View Repository](https://github.com/VEER0402/Shell-Scripts)
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, DevOps learning, and infrastructure work.
+
+### Tech Used
+React • Tailwind • Vercel
+
+### Highlights
+✔ Responsive UI  
+✔ Project showcase  
+✔ Clean modern design  
+✔ Continuous deployment  
+✔ Personal branding  
+
+🔗 [View Repository](https://github.com/VEER0402/veerendra-portfolio)
+
+</td>
+</tr>
+</table>
