@@ -60,3 +60,55 @@ I enjoy turning manual deployment processes into reliable automated systems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEER0402&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 InfraForge
+
+Production-style AWS infrastructure provisioning project built using Terraform, GitHub Actions, and modular Infrastructure as Code practices.
+
+### Key Highlights
+- Modular Terraform architecture
+- Remote state management using S3 + DynamoDB
+- CI/CD automation using GitHub Actions
+- Separate development & production environments
+- Infrastructure validation & security checks
+- Scalable and reusable infrastructure setup
+
+🔗 Repository:
+https://github.com/VEER0402/InfraForge
+
+---
+
+## 🔹 Jenkins CI/CD Pipeline Project
+
+CI/CD pipeline project focused on automating build, test, and deployment workflows using Jenkins and Docker-based deployment strategies.
+
+### Key Highlights
+- Automated Jenkins pipelines
+- Build & deployment automation
+- Git-based workflow integration
+- Environment-specific deployment handling
+- Deployment validation support
+
+🔗 Repository:
+https://github.com/VEER0402/jenkins-ci-java-without-docker
+
+---
+
+## 🔹 Shell Automation Scripts
+
+Collection of Linux and Bash automation scripts used for deployment support, system operations, and repetitive infrastructure tasks.
+
+### Key Highlights
+- Linux automation scripts
+- Deployment utility scripts
+- Process monitoring helpers
+- File and log management automation
+- Daily operational task automation
+
+🔗 Repository:
+https://github.com/VEER0402/Shell-Scripts
