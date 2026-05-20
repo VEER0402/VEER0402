@@ -1,18 +1,43 @@
 <img width="3990" height="1056" alt="veer" src="https://github.com/user-attachments/assets/477affc3-52b0-4f52-b3ce-9086b4389592" />
 
 
-# Hi, I'm Veerendra Dwivedi
+<h1 align="center">VEERENDRA DWIVEDI</h1>
 
-### DevOps & Cloud Engineer building scalable AWS infrastructure, CI/CD pipelines, Kubernetes platforms, and automation-driven deployment systems.
+<h3 align="center">
+DevOps & Cloud Engineer
+</h3>
 
-I work on designing reliable cloud infrastructure, automating deployment workflows, and improving software delivery using AWS, Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
+<p align="center">
+Building scalable AWS infrastructure, CI/CD pipelines, Kubernetes platforms, and automation-driven deployment systems.
+</p>
 
-Focused on:
-- Kubernetes & cloud-native infrastructure
-- DevSecOps & infrastructure security
-- Monitoring, observability & reliability engineering
-- AI-assisted automation workflows
-- Scalable Infrastructure as Code practices
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/DevSecOps-111111?style=for-the-badge"/>
+  
+</p>
+
+<p align="center">
+Focused on Kubernetes, DevSecOps, observability, AI-assisted automation workflows, and scalable Infrastructure as Code practices.
+</p>
+
+---
+
+### ⚡ About Me
+
+- ☁️ Working on cloud-native infrastructure and deployment automation
+- 🚀 Building CI/CD pipelines and Kubernetes-based platforms
+- 🔐 Interested in DevSecOps, infrastructure security, and reliability engineering
+- 📊 Exploring monitoring, observability, and scalable deployment systems
+- 🤖 Learning AI-assisted automation workflows for modern infrastructure operations
 
 I enjoy solving operational challenges, optimizing deployment pipelines, and building systems that reduce manual effort through automation.
 
