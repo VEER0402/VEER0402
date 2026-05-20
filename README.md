@@ -1,3 +1,6 @@
+<img width="3990" height="1056" alt="veer" src="https://github.com/user-attachments/assets/477affc3-52b0-4f52-b3ce-9086b4389592" />
+
+
 # Hi, I'm Veerendra Dwivedi
 
 ### DevOps & Cloud Engineer building scalable AWS infrastructure, CI/CD pipelines, Kubernetes platforms, and automation-driven deployment systems.
