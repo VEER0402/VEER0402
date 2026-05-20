@@ -12,3 +12,37 @@ Currently focused on:
 - Infrastructure as Code (Terraform)
 
 I enjoy turning manual deployment processes into reliable automated systems.
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash" />
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+---
+
+## 💻 Development & Scripting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,angular" />
+</p>
+
+---
+
+## 🗄️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
