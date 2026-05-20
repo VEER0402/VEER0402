@@ -46,3 +46,17 @@ I enjoy turning manual deployment processes into reliable automated systems.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VEER0402&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEER0402&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEER0402&layout=compact&theme=tokyonight" height="180em"/>
+</p>
