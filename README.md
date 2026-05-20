@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Veerendra Dwivedi 👋
 
-<!--
-**VEER0402/VEER0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer focused on DevOps, Cloud Infrastructure & CI/CD Automation
 
-Here are some ideas to get you started:
+I build and automate cloud infrastructure using AWS, Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- Production-style AWS infrastructure
+- CI/CD automation
+- Kubernetes & container orchestration
+- Monitoring & observability
+- Infrastructure as Code (Terraform)
+
+I enjoy turning manual deployment processes into reliable automated systems.
