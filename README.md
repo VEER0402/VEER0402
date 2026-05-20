@@ -1,17 +1,18 @@
-# Hi, I'm Veerendra Dwivedi 👋
+# Hi, I'm Veerendra Dwivedi
 
-### Software Engineer focused on DevOps, Cloud Infrastructure & CI/CD Automation
+### DevOps & Cloud Engineer building scalable AWS infrastructure, CI/CD pipelines, Kubernetes platforms, and automation-driven deployment systems.
 
-I build and automate cloud infrastructure using AWS, Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
+I work on designing reliable cloud infrastructure, automating deployment workflows, and improving software delivery using AWS, Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
 
-Currently focused on:
-- Production-style AWS infrastructure
-- CI/CD automation
-- Kubernetes & container orchestration
-- Monitoring & observability
-- Infrastructure as Code (Terraform)
+Focused on:
+- Kubernetes & cloud-native infrastructure
+- DevSecOps & infrastructure security
+- Monitoring, observability & reliability engineering
+- AI-assisted automation workflows
+- Scalable Infrastructure as Code practices
 
-I enjoy turning manual deployment processes into reliable automated systems.
+I enjoy solving operational challenges, optimizing deployment pipelines, and building systems that reduce manual effort through automation.
+
 
 ---
 
