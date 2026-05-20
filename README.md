@@ -33,13 +33,14 @@ Focused on Kubernetes, DevSecOps, observability, AI-assisted automation workflow
 
 ### ⚡ About Me
 
-- ☁️ Working on cloud-native infrastructure and deployment automation
-- 🚀 Building CI/CD pipelines and Kubernetes-based platforms
-- 🔐 Interested in DevSecOps, infrastructure security, and reliability engineering
-- 📊 Exploring monitoring, observability, and scalable deployment systems
-- 🤖 Learning AI-assisted automation workflows for modern infrastructure operations
+- ☁️ Building cloud-native infrastructure and deployment automation workflows
+- 🚀 Developing CI/CD pipelines using Jenkins, GitHub Actions, Docker, and Kubernetes
+- 🔐 Implementing DevSecOps practices, infrastructure security, and reliability-focused deployments
+- 📊 Working with monitoring, observability, and scalable infrastructure operations
+- 🤖 Integrating AI-assisted automation workflows into modern DevOps practices
 
-I enjoy solving operational challenges, optimizing deployment pipelines, and building systems that reduce manual effort through automation.
+I focus on improving infrastructure reliability, automating operational workflows, and building scalable deployment systems using cloud-native technologies.
+
 
 
 ---
