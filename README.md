@@ -104,86 +104,90 @@ I focus on improving infrastructure reliability, automating operational workflow
 
 <table>
 <tr>
+
 <td width="50%">
 
-## ☁️ InfraForge
+## ☁️ AWS Scalable Web Platform
 
-Production-style AWS infrastructure provisioning using Terraform and GitHub Actions.
+Production-style AWS architecture with Auto Scaling Groups, Application Load Balancer, Bastion Host access, and private subnet deployments.
 
 ### Tech Used
-AWS • Terraform • GitHub Actions • S3 • DynamoDB
+AWS • EC2 • VPC • ALB • Auto Scaling • Linux
+
+### Highlights
+✔ Private/Public subnet architecture  
+✔ Load balancing & scaling concepts  
+✔ Bastion-based secure access  
+✔ Real-world deployment debugging  
+✔ High availability focused design  
+
+🔗 [View Repository](https://github.com/VEER0402/aws-scalable-web-platform)
+
+</td>
+
+<td width="50%">
+
+## 🏗️ InfraForge
+
+Production-style Infrastructure as Code project using Terraform and GitHub Actions for AWS infrastructure provisioning.
+
+### Tech Used
+Terraform • AWS • GitHub Actions • S3 • DynamoDB
 
 ### Highlights
 ✔ Modular Terraform architecture  
 ✔ Remote state management  
 ✔ CI/CD automation  
 ✔ Dev & Prod environments  
-✔ Infrastructure validation checks  
+✔ Infrastructure validation workflows  
 
 🔗 [View Repository](https://github.com/VEER0402/InfraForge)
 
 </td>
 
-<td width="50%">
-
-## ⚙️ Jenkins CI/CD Pipeline
-
-Automated CI/CD workflows using Jenkins pipeline automation.
-
-### Tech Used
-Jenkins • Docker • Git • Linux
-
-### Highlights
-✔ Automated build workflows  
-✔ Deployment automation  
-✔ Git integration  
-✔ Release validation support  
-✔ Environment handling  
-
-🔗 [View Repository](https://github.com/VEER0402/jenkins-ci-java-without-docker)
-
-</td>
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 🐧 Shell Automation Scripts
+## ⚙️ GitHub Actions Self-Hosted Runner
 
-Linux and Bash automation scripts for operational and deployment tasks.
+Enterprise-style CI/CD pipelines using Linux-based self-hosted runners, SonarQube integration, Docker workflows, and Kubernetes deployments.
 
 ### Tech Used
-Linux • Bash • Shell Scripting
+GitHub Actions • Docker • Kubernetes • SonarQube • Linux
 
 ### Highlights
-✔ Log automation  
-✔ File management scripts  
-✔ Process monitoring  
-✔ Deployment helper scripts  
-✔ Operational automation  
+✔ Self-hosted runner setup  
+✔ CI/CD workflow automation  
+✔ SonarQube integration  
+✔ Kubernetes deployment workflows  
+✔ Custom pipeline environments  
 
-🔗 [View Repository](https://github.com/VEER0402/Shell-Scripts)
+🔗 [View Repository](https://github.com/VEER0402/github-actions-self-hosted-runner)
 
 </td>
 
 <td width="50%">
 
-## 🌐 Portfolio Website
+## 🚀 Microservices CI/CD Platform
 
-Personal portfolio showcasing projects, DevOps learning, and infrastructure work.
+Containerized microservices platform with frontend/backend service separation and Dockerized deployment workflows.
 
 ### Tech Used
-React • Tailwind • Vercel
+Java • Spring Boot • Angular • Docker • Docker Compose
 
 ### Highlights
-✔ Responsive UI  
-✔ Project showcase  
-✔ Clean modern design  
-✔ Continuous deployment  
-✔ Personal branding  
+✔ Multi-service architecture  
+✔ Dockerized deployments  
+✔ Frontend/backend isolation  
+✔ Container orchestration workflows  
+✔ CI/CD-ready architecture  
 
-🔗 [View Repository](https://github.com/VEER0402/veerendra-portfolio)
+🔗 [View Repository](https://github.com/VEER0402/microservices-ci-cd-platform)
 
 </td>
+
 </tr>
 </table>
